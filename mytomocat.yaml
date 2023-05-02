@@ -1,0 +1,5 @@
+---
+  name:installing tomocat
+  host:"{{env}}"
+  roles:
+     -tomocat
